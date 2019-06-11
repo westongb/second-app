@@ -1,0 +1,11 @@
+.App {
+  background-color: blue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+  width: 100%;
+}
+
+.trialLink {
+  color: black;
+}

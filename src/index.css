@@ -1,0 +1,9 @@
+.bodyArea {
+  display: flex;
+  align-content: center;
+  padding: 20px;
+}
+
+.Quiz {
+  float: left;
+}

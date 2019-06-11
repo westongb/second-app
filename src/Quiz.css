@@ -1,0 +1,15 @@
+.quizArea {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-left: 2%;
+}
+
+.quizCard {
+  width: 60%;
+  background-color: aquamarine;
+}
+
+.quizQuestions {
+  color: black;
+}
